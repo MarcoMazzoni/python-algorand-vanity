@@ -3,7 +3,7 @@ Python script to generate Algorand vanity addresses.
 
 Original source code: [https://github.com/PureStake/api-examples/blob/master/python-examples/algo_vanity.py](https://github.com/PureStake/api-examples/blob/master/python-examples/algo_vanity.py)
 
-##Prerequisites
+## Prerequisites
 * `python3.6`
 * `pip3`
 * `virtualenv`
